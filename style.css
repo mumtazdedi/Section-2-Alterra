@@ -1,0 +1,88 @@
+.teks1 hr{
+    border-bottom: 5px solid white;
+    width: 450px;
+}
+
+.teks hr{
+    border-bottom: 5px solid white;
+    width: 150px;
+}
+
+.sect{
+    min-height: 700px;
+}
+
+.gbr{
+    float: left;
+    margin-right: 10px;
+}
+
+.teks p{
+    text-align: center;
+    color: azure;
+
+}
+
+.teks1 p{
+    text-align: center;
+    color: azure;
+
+}
+
+.teks h2{
+    color: azure;
+    text-align: center;
+}
+
+.teks1 h2{
+    color: azure;
+    text-align: center;
+}
+
+textarea{
+    width: 600px;
+}
+
+.utama{
+    background-image: url(img/dua.jpg);
+}
+
+.image{
+    width: 900px;
+    height: 450px;
+}
+
+.form{
+    background-color: rgb(32, 151, 155);
+}
+
+.warna{
+    background-color: rgb(49, 49, 49);
+    border-radius: 10px;
+    width: 950px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding-bottom: 70px;
+}
+
+.warna h2{
+    color: azure;
+}
+
+.warna font{
+    color: azure;
+}
+
+.batas{
+    background-color: rgb(31, 30, 30);
+    border-radius: 10px;
+    width: 950px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+.jq{
+    background-color: rgb(9, 115, 202);
+    border-radius: 10px;
+}
